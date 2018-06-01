@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\Fight club\Fight club\bin\Debug\Fight club.exe.config
+C:\Users\Alex\source\repos\Fight club\Fight club\bin\Debug\Fight club.exe
+C:\Users\Alex\source\repos\Fight club\Fight club\bin\Debug\Fight club.pdb
+C:\Users\Alex\source\repos\Fight club\Fight club\obj\Debug\Fight club.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\Fight club\Fight club\obj\Debug\Fight_club.Form1.resources
+C:\Users\Alex\source\repos\Fight club\Fight club\obj\Debug\Fight_club.Properties.Resources.resources
+C:\Users\Alex\source\repos\Fight club\Fight club\obj\Debug\Fight club.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Fight club\Fight club\obj\Debug\Fight club.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Fight club\Fight club\obj\Debug\Fight club.exe
+C:\Users\Alex\source\repos\Fight club\Fight club\obj\Debug\Fight club.pdb
